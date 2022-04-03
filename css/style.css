@@ -1,0 +1,39 @@
+.container {
+    background-color: #f5f5dd;
+    margin-right: 1170px;
+}
+
+.one {
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    margin-left: 120px;
+    margin-bottom: 10px;
+}
+
+.two  {
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    opacity: 0.7;
+}
+
+.thire {
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    opacity: 0.4;
+}
+
+.four {
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    opacity: 0.1;
+}
